@@ -1,3 +1,5 @@
+https://www.tapatalk.com/groups/rpisurv/support-f14/index-s50.html
+
 # Rpisurv 3 - Raspberry Pi surveillance
 Join the community on https://community.rpisurv.net (Please use this place for support questions instead of github issues).<br/>
 Bug tracking https://github.com/SvenVD/rpisurv/issues.<br/>
